@@ -1,0 +1,16 @@
+.uno{ 
+    border: 20px;
+    background-color: coral;
+    flex
+}
+.dos{ 
+    border:30px;
+    background-color: cornflowerblue;
+}
+.tres{ 
+    border: 40px;
+    background-color: darkseagreen;
+}
+.container{
+    justify-content: flex-start;
+}
